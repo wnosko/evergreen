@@ -10,8 +10,8 @@ var gulp = require('gulp'),
 
 /* Moved folder with images & fonts */
 var filesToMove = [
-    'development/fonts/**/',
-    'development/img/**/'
+    'development/img/**/',
+    'development/fonts/**/'
   ];
  
 
